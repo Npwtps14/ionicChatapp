@@ -28,10 +28,10 @@ export class ChatPage {
     this.subscription = this.db.list('/chat').valueChanges().subscribe( data => {
       console.log(data);
       this.messages = data;
-      // data.map( elem =>{
-      //   this.messages.push(elem);
-      //   console.log(elem);
-      // });
+      data.map( elem =>{
+      this.messages.push(elem);
+      console.log(elem);
+      });
     });
   }
 
