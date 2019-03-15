@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { IonicPage, NavController, NavParams } from 'ionic-angular'; 
 import { User } from '../../models/user';
 import { AngularFireAuth } from 'angularfire2/auth';
-
+//ส่วนของการโมดูล มาใช้โดยการอิมพอตมา
 
 @IonicPage()
 @Component({
