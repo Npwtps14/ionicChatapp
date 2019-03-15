@@ -1,6 +1,8 @@
 {
   "name": "lprucr",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "65967298"
 }
