@@ -6,3 +6,4 @@
 ไฟล์ สำหรับ รันบน xcode ios emulator and android , apk https://drive.google.com/drive/folders/1_4nGSR4-O91xjSQcUBUu_Svzg1Rh9Sf1?usp=sharing
 
 สำหรับ เเอนดรอย เปลี่ยน version ตรง .xml เป็น 8.0 ขึ้นไป
+ต้องการใช้ทดสอบระบบ โดยการใช้ Database ของตนเองได้เช่นกัน โดยการ เปลี่ยน key ของ firebase ที่ไฟล์ Firebase.info.ts 
